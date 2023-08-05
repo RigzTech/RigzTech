@@ -1,3 +1,5 @@
+Hello, I am RigzTech
+
 - 👋 Hi, I’m @RigzTech
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently on ALX SE program
