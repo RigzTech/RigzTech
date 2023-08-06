@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width="330" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-## I'm a Software Engineering Student  
+## I'm a Software Engineer
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc
 - 📚 I’m currently learning everything about Frontend and Backend technologies @ ALX SE program 😅
