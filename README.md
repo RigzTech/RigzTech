@@ -22,7 +22,7 @@
 <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A"/>
 
 
-### Contact with me 📝
+### Contact me📝
 
 
 [<img align="left" alt="fredrick-origa | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
