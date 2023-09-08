@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc 
 - 📚 I’m currently learning everything about Frontend and Backend technologies @ ALX SE program 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love listening to music. 
